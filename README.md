@@ -1,9 +1,13 @@
-# PlantPathology2021_FedAvg[![arXiv](https://img.shields.io/badge/arXiv-1602.05629-f9f107.svg)](https://arxiv.org/abs/1602.05629)
+# PlantPathology2021_FedAvg  [![arXiv](https://img.shields.io/badge/arXiv-1602.05629-f9f107.svg)](https://arxiv.org/abs/1602.05629)
 ![Python](https://upload.wikimedia.org/wikipedia/commons/1/1b/Blue_Python_3.9_Shield_Badge.svg)
-![Flask](https://img.shields.io/badge/flask-v1.1.1-blue)
+![Pytorch](https://img.shields.io/badge/Pytorch-v1.11.0-blue)
 ![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 `FedAvg (Federated Algorithm)` : [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+
+`Plant Pathology 2021` : [Plant Pathology 2021](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8)
+
+`Wandb` : [Wandb](https://wandb.ai/makkuror/)
 
 
 An thesis project of me submitted to International University - Vietnam National University. \
