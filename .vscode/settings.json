@@ -1,0 +1,5 @@
+{
+    "pythonIndent.keepHangingBracketOnLine": false,
+    "notebook.output.textLineLimit": 50,
+
+}
